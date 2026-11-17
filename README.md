@@ -5,46 +5,25 @@ The modules are designed to introduce and strengthen fundamental Python programm
 
 Each module focuses on different topics and gradually builds the skills needed to become a confident Python developer, covering everything from basic syntax and data structures to more advanced programming concepts.
 
-### Python Modlue00
-
-basic functions to introduce the synthax of pyhton and how to use pyhton.
-
-### Python Modlue01
-
-basic OOP to teach how to use classes and what they are doing
-
-### Python Modlue02
-
-try and except to teach how to handle errors in pyhton
-
-### Python Modlue03
-
-data types: list, dict, set and tuple
-
-### Python Modlue04
-
-opening files and read and write in them making a basic archive
-
-### Python Modlue05
-
-introducing ABC classes and how to use them
-
-### Python Modlue06
-
-basic imports 
-
-### Python Modlue07
-
-advanced OOP with abc and imports
-
-### Python Modlue08
-
-viruall enviorments and env
-
-### Python Modlue09
-
-pydantic validator
-
-### Python Modlue10
-
-lamda funktions, functools, wraper
+### Python Module 00
+Introduction to Python syntax, basic functions, and fundamental programming concepts.
+### Python Module 01
+Introduction to Object-Oriented Programming (OOP), classes, objects, attributes, and methods.
+### Python Module 02
+Error handling using exceptions, try, except, and custom error management.
+### Python Module 03
+Working with Python's built-in data structures: lists, dictionaries, sets, and tuples.
+### Python Module 04
+File handling, reading and writing data, and building a basic data archive.
+### Python Module 05
+Introduction to Abstract Base Classes (ABC) and defining common interfaces for classes.
+### Python Module 06
+Understanding Python imports, modules, and how to organize and reuse code.
+### Python Module 07
+Advanced OOP concepts, combining abstract classes, inheritance, and modular code structures.
+### Python Module 08
+Working with virtual environments, environment variables, and isolated Python dependencies.
+### Python Module 09
+Data validation and type enforcement using Pydantic models and validators.
+### Python Module 10
+Functional programming concepts, including lambda functions, functools, decorators, and wrappers.
